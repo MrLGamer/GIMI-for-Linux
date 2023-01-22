@@ -28,7 +28,8 @@ Go back to launcher settings then click on "Wine version" and download/select th
 
 3. Close settings and launch the game . If everything is correct so far, 3DMigoto should be injected into the game and you should see a green text overlay (only if using the "development" version, the "playing" version does not show the green text):
 
-![Bildschirmfoto vom 2023-01-21 23-24-22](https://user-images.githubusercontent.com/54450456/213889402-4121b7ba-58b2-415e-9c48-55562d3c55e2.png)
+![6](https://user-images.githubusercontent.com/54450456/213923373-5990254a-bed2-4f27-96e9-f3112f127c88.png)
+
 
 
 4. Installation complete! You should now be able to load custom resources and override textures and shaders with 3DMigoto. To add mods, place them in the Mods folder (one mod per character at a time) and press F10 to load them in game:  
@@ -42,3 +43,5 @@ Go back to launcher settings then click on "Wine version" and download/select th
 [Fix 3dmigoto green text/mod not loading](Guides/3dmigotoNotLoading.md)  
   
 [Fix broken Mods](Guides/BrokenMods.md)
+
+[Fix broken Shadows](Guides/FixBrokenShadows.md)
