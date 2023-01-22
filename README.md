@@ -1,10 +1,9 @@
 # GIMI-for-Linux
-A modified release for Genshin-Impact-Model-Importer (GIMI) to work on Linux with the  "An Anime Game Launcher"
+A modified release for Genshin-Impact-Model-Importer (GIMI) to work on Linux with the  "An Anime Game Launcher"  
+Special Thanks to [SilentNightSound](https://github.com/SilentNightSound) for creating the original version of [GIMI](https://github.com/SilentNightSound/GI-Model-Importer).
 
 **DISCLAIMER:**  
 **I do not condone the use of these programs on official servers and take no responsibility for the consequences if you do.**
-
-[GIMI](https://github.com/SilentNightSound/GI-Model-Importer) is a version of 3DMigoto that was modified by [SilentNightSound](https://github.com/SilentNightSound) to be compatible with Genshin.
 
 ## Installation Instructions (3DMigoto - An Anime Game Launcher)
 
