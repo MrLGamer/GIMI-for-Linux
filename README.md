@@ -1,5 +1,5 @@
 
-# DEPRECATED! - USE FIRST LINK FOR NEW TUTORIAL
+# DEPRECATED! - NEW TUTORIAL
 
 
 This repo as well as files are outdated. Modifiyng 3dmigoto is no longer necassary to make it work with Linux.
